@@ -1,0 +1,14 @@
+C:\Users\maksb\source\repos\lab-7-4-oop\lab-7-4-oop\bin\Debug\net6.0\lab-7-4-oop.exe
+C:\Users\maksb\source\repos\lab-7-4-oop\lab-7-4-oop\bin\Debug\net6.0\lab-7-4-oop.deps.json
+C:\Users\maksb\source\repos\lab-7-4-oop\lab-7-4-oop\bin\Debug\net6.0\lab-7-4-oop.runtimeconfig.json
+C:\Users\maksb\source\repos\lab-7-4-oop\lab-7-4-oop\bin\Debug\net6.0\lab-7-4-oop.dll
+C:\Users\maksb\source\repos\lab-7-4-oop\lab-7-4-oop\bin\Debug\net6.0\lab-7-4-oop.pdb
+C:\Users\maksb\source\repos\lab-7-4-oop\lab-7-4-oop\obj\Debug\net6.0\lab-7-4-oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksb\source\repos\lab-7-4-oop\lab-7-4-oop\obj\Debug\net6.0\lab-7-4-oop.AssemblyInfoInputs.cache
+C:\Users\maksb\source\repos\lab-7-4-oop\lab-7-4-oop\obj\Debug\net6.0\lab-7-4-oop.AssemblyInfo.cs
+C:\Users\maksb\source\repos\lab-7-4-oop\lab-7-4-oop\obj\Debug\net6.0\lab-7-4-oop.csproj.CoreCompileInputs.cache
+C:\Users\maksb\source\repos\lab-7-4-oop\lab-7-4-oop\obj\Debug\net6.0\lab-7-4-oop.dll
+C:\Users\maksb\source\repos\lab-7-4-oop\lab-7-4-oop\obj\Debug\net6.0\refint\lab-7-4-oop.dll
+C:\Users\maksb\source\repos\lab-7-4-oop\lab-7-4-oop\obj\Debug\net6.0\lab-7-4-oop.pdb
+C:\Users\maksb\source\repos\lab-7-4-oop\lab-7-4-oop\obj\Debug\net6.0\lab-7-4-oop.genruntimeconfig.cache
+C:\Users\maksb\source\repos\lab-7-4-oop\lab-7-4-oop\obj\Debug\net6.0\ref\lab-7-4-oop.dll
